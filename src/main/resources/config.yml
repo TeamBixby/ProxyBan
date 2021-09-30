@@ -1,0 +1,4 @@
+# Setting configuration file for ProxyBan.
+
+banned-message: "You are banned."
+banned-message-expire: "Your ban will be expired at %0"
