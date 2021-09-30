@@ -42,6 +42,7 @@ import java.util.Date
 class ProxyBan : Plugin() {
 
     lateinit var banList: YamlConfig
+        private set
 
     override fun onEnable() {
         instance = this
